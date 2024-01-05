@@ -1,9 +1,6 @@
 # Exploit Title: payload Execution by Fake Windows SmartScreen with requires Administrator privileges & Turn off real SmartScreen Filter
 # Date: 2023-12-14
-# Exploit Author: AbdulRahman Ali 
-# Vendor: https://github.com/S3N4T0R-0X0/Checkmate
-# Tested on: Kali Linux & Windows 10
-# CVE: N/A
+# Exploit Author: S3N4T0R
 # Build: pyinstaller --onefile Checkmate.py
 
 import tkinter as tk
